@@ -16,12 +16,12 @@ export const Hero = () => {
           {/* Badge */}
           <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-primary/10 border border-primary/20 backdrop-blur-sm">
             <Sparkles className="w-4 h-4 text-primary" />
-            <span className="text-sm font-medium text-primary">AI Automation for Modern Business</span>
+            <span className="text-sm font-medium text-primary">AI Agents for Modern Business</span>
           </div>
           
           {/* Main Headline */}
           <h1 className="text-5xl md:text-7xl font-bold tracking-tight">
-            <span className="text-foreground">Ubah Cara Kerja</span>
+            <span className="text-foreground">Transformasikan Cara Kerja</span>
             <br />
             <span className="bg-gradient-to-r from-primary via-accent to-primary bg-clip-text text-transparent animate-glow">
               Bisnis Kamu dengan AI
@@ -30,7 +30,7 @@ export const Hero = () => {
           
           {/* Subtext */}
           <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">
-            Vlowzy membantu bisnis menjadi lebih efisien, cepat, dan produktif dengan solusi AI automation yang dirancang khusus untuk kebutuhan Anda.
+            Vlowzy membantu bisnis menjadi lebih efisien, cepat, dan produktif dengan solusi AI yang dirancang khusus untuk kebutuhan Anda.
           </p>
           
           {/* CTA Buttons */}
@@ -47,7 +47,7 @@ export const Hero = () => {
               variant="outline" 
               className="text-lg px-8 py-6 border-primary/30 hover:bg-primary/10"
             >
-              Pelajari Lebih Lanjut
+              Hubungi Kami
             </Button>
           </div>
           

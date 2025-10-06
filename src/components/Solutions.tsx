@@ -7,20 +7,20 @@ export const Solutions = () => {
     {
       icon: MessageCircle,
       title: "AI Chat Agent",
-      description: "Chatbot pintar yang berkomunikasi layaknya manusia, memahami konteks, dan memberikan solusi real-time untuk customer Anda.",
-      features: ["Natural Language Processing", "24/7 Availability", "Multi-channel Support"],
+      description: "Chatbot pintar yang bisa berinteraksi layaknya manusia — memahami konteks percakapan, menjawab pertanyaan secara akurat, dan memberikan solusi real-time di berbagai platform. Bukan sekadar chatbot biasa, tapi agen cerdas yang bisa menjadwalkan meeting, mengirim email, memperbarui data, dan menjalankan tugas-tugas bisnis secara otomatis.",
+      features: ["Human-like & Contextual Conversation", "24/7 Availability", "Lead Qualification & Scoring", "Multi-channel Integration (Whatsapp, Website, etc)", "Supports 96+ Languages", "Centralized Funneling Dashboard", "Seamless System Integration (CRM, Calendar, Email. dll.", "Customizable Tone & Personality"],
     },
     {
       icon: Mail,
-      title: "Smart Email Agent",
-      description: "Otomasi email marketing, follow-up leads, dan customer support dengan AI yang memahami tone dan personalisasi.",
-      features: ["Auto-response", "Lead Qualification", "Email Analytics"],
+      title: "Smart Voice Agent",
+      description: "Asisten suara pintar yang bisa berbicara layaknya manusia, memahami konteks pembicaraan, dan merespons secara real-time. Cocok untuk bisnis yang ingin memberikan pengalaman pelanggan modern — dari menjawab pertanyaan, melakukan panggilan otomatis, hingga follow-up prospek tanpa perlu tenaga manusia.",
+      features: ["Natural Human-like Voice Conversations", "Real-Time Response & Context Understanding", "Lead Qualification via Phone Calls", "Automated Call Follow-Ups & Reminders", "Integration with Existing CRM / Customer Database"],
     },
     {
       icon: Workflow,
       title: "Operational Automation",
-      description: "Otomatisasi laporan, reminder, approval workflow, dan proses bisnis repetitif lainnya untuk efisiensi maksimal.",
-      features: ["Task Automation", "Report Generation", "Workflow Management"],
+      description: "Semua proses internal bisnis berjalan otomatis, mulai dari laporan, reminder, approval, hingga koordinasi tim. Lebih efisien, minim error, dan hemat waktu.",
+      features: ["Automated Daily & Weekly Reports", "Smart Reminders & Notifications", "Task Assignment & Tracking", "Email & Document Automation", "Dashboard Summary & Analytics"],
     },
     {
       icon: Code,

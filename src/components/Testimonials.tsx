@@ -4,21 +4,21 @@ import { Star } from "lucide-react";
 export const Testimonials = () => {
   const testimonials = [
     {
-      name: "Rina Susanti",
-      role: "CEO, EduConsult Indonesia",
-      content: "Setelah pakai Vlowzy, pekerjaan admin kami jauh lebih cepat dan efisien. Tim bisa fokus ke hal yang lebih penting.",
+      name: "Dony Susanto",
+      role: "CEO, PT Genesys Integrated Indonesia",
+      content: "Bener-bener game changing, saya kira awalnya cuma chatbot biasa, tapi ternyata bisa banyak banget fitur-fitur AI yang bisa ditambahkan.",
       rating: 5,
     },
     {
-      name: "Budi Santoso",
-      role: "Operations Manager, Grand Hotel",
-      content: "AI Voice Agent dari Vlowzy benar-benar game changer. Tamu kami sangat puas dengan layanan 24/7 yang responsif.",
+      name: "Hartono Gunawan",
+      role: "CEO, PT Sekawan Samudara Indonesia",
+      content: "Fitur Auto Follow-Up ke customer dan task assignment sangat membantu, ditambah adanya visualisasi dashboard yang mendukung.",
       rating: 5,
     },
     {
-      name: "Dr. Amelia Putri",
-      role: "Director, Klinik Sehat Sentosa",
-      content: "Reminder otomatis dan sistem appointment membuat operasional klinik kami jauh lebih smooth. No-show turun drastis!",
+      name: "Martin Guan",
+      role: "Director, Edubridge Indonesia",
+      content: "Awalnya kualahan handle banyak inquiry customer, apalagi banyak yang ga serius, dengan adanya chatbot dengan lead qualificaiton dan summarization, admin bisa fokus pada calon client yang memiliki potensi tinggi.",
       rating: 5,
     },
   ];
@@ -68,10 +68,10 @@ export const Testimonials = () => {
             Dipercaya oleh
           </p>
           <div className="flex flex-wrap justify-center items-center gap-12 opacity-50 grayscale hover:grayscale-0 transition-all">
-            <div className="text-2xl font-bold text-foreground">StartupX</div>
-            <div className="text-2xl font-bold text-foreground">TechCorp</div>
-            <div className="text-2xl font-bold text-foreground">Digital Agency</div>
-            <div className="text-2xl font-bold text-foreground">SmartBiz</div>
+            <div className="text-2xl font-bold text-foreground">Genesys</div>
+            <div className="text-2xl font-bold text-foreground">Sekawan Samudra</div>
+            <div className="text-2xl font-bold text-foreground">Edubridge</div>
+            <div className="text-2xl font-bold text-foreground">Universitas Ciputra</div>
           </div>
         </div>
       </div>

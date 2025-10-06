@@ -48,7 +48,7 @@ export const Navigation = () => {
             size="lg"
             className="bg-primary hover:bg-primary/90 shadow-lg shadow-primary/25"
           >
-            Contact Us
+            Hubungi Kami
           </Button>
         </div>
       </div>
