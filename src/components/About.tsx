@@ -29,6 +29,11 @@ export const About = () => {
     <section className="py-24 relative overflow-hidden">
       <div className="container mx-auto px-4">
         <div className="max-w-3xl mx-auto text-center mb-16 animate-fade-in-up">
+          <div className="inline-block mb-6 px-6 py-2 rounded-full bg-primary/10 border border-primary/20">
+            <p className="text-sm md:text-base text-primary font-medium">
+              Lebih dari sekadar chatbot — ini adalah paket solusi AI lengkap yang dirancang khusus untuk kebutuhan bisnismu
+            </p>
+          </div>
           <h2 className="text-4xl md:text-5xl font-bold mb-6">
             Mengapa Memilih <span className="text-primary">Vlowzy</span>?
           </h2>
