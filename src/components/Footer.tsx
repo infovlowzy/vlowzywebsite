@@ -9,7 +9,7 @@ export const Footer = () => {
           <div className="space-y-4">
             <h3 className="text-2xl font-bold text-primary">Vlowzy</h3>
             <p className="text-muted-foreground leading-relaxed">
-              AI automation and agent development company, bagian dari <strong className="text-foreground">PT Tritech Dynamic Indonesia</strong>.
+              AI Software House company, bagian dari <strong className="text-foreground">PT Tritech Dynamic Indonesia</strong>.
             </p>
             <div className="flex gap-4 pt-4">
               <a 
@@ -48,7 +48,7 @@ export const Footer = () => {
               </li>
               <li>
                 <a href="#solutions" className="text-muted-foreground hover:text-primary transition-colors">
-                  Smart Email Agent
+                  Smart Voice Agent
                 </a>
               </li>
               <li>
@@ -79,7 +79,7 @@ export const Footer = () => {
                 <strong className="text-foreground">WhatsApp:</strong>
                 <br />
                 <a href="https://wa.me/628123456789" className="hover:text-primary transition-colors">
-                  +62 812-3456-7890
+                  +62 85102629999
                 </a>
               </li>
             </ul>
