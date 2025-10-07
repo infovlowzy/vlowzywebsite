@@ -23,7 +23,7 @@ export const About = () => {
       title: "Easy Integration",
       description: "Terintegrasi mulus dengan sistem yang sudah Anda gunakan.",
     },
-  ];
+  ]
 
   return (
     <section className="py-24 relative overflow-hidden">
