@@ -1,6 +1,6 @@
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
-import { MessageCircle, Mail, Workflow, Code } from "lucide-react";
+import { MessageCircle, Mail, Workflow, Code, Mic } from "lucide-react";
 
 export const Solutions = () => {
   const solutions = [
@@ -11,7 +11,7 @@ export const Solutions = () => {
       features: ["Human-like & Contextual Conversation", "24/7 Availability", "Lead Qualification & Scoring", "Multi-channel Integration (Whatsapp, Website, etc)", "Supports 96+ Languages", "Centralized Funneling Dashboard", "Seamless System Integration (CRM, Calendar, Email. dll.", "Customizable Tone & Personality"],
     },
     {
-      icon: Mail,
+      icon: Mic,
       title: "Smart Voice Agent",
       description: "Asisten suara pintar yang bisa berbicara layaknya manusia, memahami konteks pembicaraan, dan merespons secara real-time. Cocok untuk bisnis yang ingin memberikan pengalaman pelanggan modern — dari menjawab pertanyaan, melakukan panggilan otomatis, hingga follow-up prospek tanpa perlu tenaga manusia.",
       features: ["Natural Human-like Voice Conversations", "Real-Time Response & Context Understanding", "Lead Qualification via Phone Calls", "Automated Call Follow-Ups & Reminders", "Integration with Existing CRM / Customer Database"],

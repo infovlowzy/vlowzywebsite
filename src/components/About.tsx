@@ -15,7 +15,7 @@ export const About = () => {
     },
     {
       icon: Clock,
-      title: "Efisiensi Maksimal",
+      title: "Maximum Efficiency",
       description: "Hemat waktu hingga 80% dengan otomasi proses berulang.",
     },
     {
@@ -39,7 +39,6 @@ export const About = () => {
           </h2>
           <p className="text-xl text-muted-foreground leading-relaxed">
             Vlowzy, bagian dari <strong>PT Tritech Dynamic Indonesia</strong>, adalah partner terpercaya dalam transformasi digital bisnis Anda. 
-            Kami membantu perusahaan menghemat waktu, meningkatkan produktivitas, dan fokus pada pertumbuhan dengan teknologi AI automation terdepan.
           </p>
         </div>
 
