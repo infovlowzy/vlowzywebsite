@@ -29,13 +29,13 @@ export const About = () => {
     <section className="py-24 relative overflow-hidden">
       <div className="container mx-auto px-4">
         <div className="max-w-3xl mx-auto text-center mb-16 animate-fade-in-up">
-          <div className="inline-block mb-6 px-6 py-2 rounded-full bg-primary/10 border border-primary/20">
+          {/* <div className="inline-block mb-6 px-6 py-2 rounded-full bg-primary/10 border border-primary/20">
             <p className="text-sm md:text-base text-primary font-medium">
               Lebih dari sekadar chatbot — ini adalah paket solusi AI lengkap yang dirancang khusus untuk kebutuhan bisnismu
             </p>
-          </div>
+          </div> */}
           <h2 className="text-4xl md:text-5xl font-bold mb-6">
-            Mengapa Memilih <span className="text-primary">Vlowzy</span>?
+            Everything we do, we believe in creating a future <span className="text-primary">where businesses think faster, act smarter, and grow effortlessly.</span>?
           </h2>
           <p className="text-xl text-muted-foreground leading-relaxed">
             Vlowzy, bagian dari <strong>PT Tritech Dynamic Indonesia</strong>, adalah partner terpercaya dalam transformasi digital bisnis Anda. 
