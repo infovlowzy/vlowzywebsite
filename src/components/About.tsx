@@ -35,7 +35,7 @@ export const About = () => {
             </p>
           </div> */}
           <h2 className="text-4xl md:text-5xl font-bold mb-6">
-            Everything we do, we believe in creating a future <span className="text-primary">where businesses think faster, act smarter, and grow effortlessly.</span>?
+            Everything we do, we believe in creating a future <span className="text-primary">where businesses think faster, act smarter, and grow effortlessly</span>.
           </h2>
           <p className="text-xl text-muted-foreground leading-relaxed">
             Vlowzy, bagian dari <strong>PT Tritech Dynamic Indonesia</strong>, adalah partner terpercaya dalam transformasi digital bisnis Anda. 

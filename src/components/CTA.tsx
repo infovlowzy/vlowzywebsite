@@ -22,7 +22,7 @@ export const CTA = () => {
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center pt-6">
             {/* Jadwalkan Demo */}
             <a 
-              href="https://wa.me/6285102629999?text=Halo%20Vlowzy%2C%20saya%20ingin%20menjadwalkan%20demo%20AI%20solution." 
+              href="https://wa.me/6285102629999?text=Halo%2C%20saya%20ingin%20menjadwalkan%20free%20consultation%20bagaimana%20AI%20bisa%20diterapkan%20di%20bisnis%20saya" 
               target="_blank" 
               rel="noopener noreferrer"
             >
@@ -38,7 +38,7 @@ export const CTA = () => {
 
             {/* Hubungi Kami */}
             <a 
-              href="https://wa.me/6285102629999?text=Halo%20Vlowzy%2C%20saya%20ingin%20bertanya%20lebih%20lanjut%20tentang%20AI%20solution." 
+              href="https://wa.me/6285102629999?text=Halo%2C%20saya%20ingin%20bertanya%20lebih%20lanjut%20tentang%20AI%20solution%20yang%20ditawarkan%20Vlowzy" 
               target="_blank" 
               rel="noopener noreferrer"
             >

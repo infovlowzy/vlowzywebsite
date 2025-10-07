@@ -12,7 +12,7 @@ export const Footer = () => {
               AI Software House company, bagian dari <strong className="text-foreground">PT Tritech Dynamic Indonesia</strong>.
             </p>
             <div className="flex gap-4 pt-4">
-              <a 
+              {/* <a 
                 href="https://instagram.com/vlowzy" 
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -33,7 +33,7 @@ export const Footer = () => {
                 className="p-2 rounded-lg bg-primary/10 hover:bg-primary/20 transition-colors"
               >
                 <Mail className="w-5 h-5 text-primary" />
-              </a>
+              </a> */}
             </div>
           </div>
           
