@@ -3,6 +3,13 @@ import { useState, useEffect } from "react";
 
 export const Navigation = () => {
   const [isScrolled, setIsScrolled] = useState(false);
+  const whatsappNumber = "6285102629999";
+
+  const handleClick = () => {
+    const message = "Halo, saya ingin bertanya lebih lanjut tentang AI solution yang ditawarkan Vlowzy.";
+    const encodedMessage = encodeURIComponent(message);
+    window.open(`https://wa.me/${whatsappNumber}?text=${encodedMessage}`, "_blank");
+  };
 
   useEffect(() => {
     const handleScroll = () => {
@@ -47,6 +54,7 @@ export const Navigation = () => {
           <Button 
             size="lg"
             className="bg-primary hover:bg-primary/90 shadow-lg shadow-primary/25"
+            onClick={handleClick}
           >
             Hubungi Kami
           </Button>
