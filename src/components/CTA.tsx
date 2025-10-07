@@ -20,25 +20,46 @@ export const CTA = () => {
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center pt-6">
-            <Button 
-              size="lg" 
-              className="group text-lg px-10 py-7 bg-primary hover:bg-primary/90 shadow-2xl shadow-primary/30 animate-glow"
+            {/* Jadwalkan Demo */}
+            <a 
+              href="https://wa.me/6285102629999?text=Halo%20Vlowzy%2C%20saya%20ingin%20menjadwalkan%20demo%20AI%20solution." 
+              target="_blank" 
+              rel="noopener noreferrer"
             >
-              <Calendar className="mr-2 h-5 w-5" />
-              Jadwalkan Demo
-              <ArrowRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />
-            </Button>
-            <Button 
-              size="lg" 
-              variant="outline" 
-              className="text-lg px-10 py-7 border-primary/30 hover:bg-primary/10"
+              <Button 
+                size="lg" 
+                className="group text-lg px-10 py-7 bg-primary hover:bg-primary/90 shadow-2xl shadow-primary/30 animate-glow"
+              >
+                <Calendar className="mr-2 h-5 w-5" />
+                Jadwalkan Demo
+                <ArrowRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />
+              </Button>
+            </a>
+
+            {/* Hubungi Kami */}
+            <a 
+              href="https://wa.me/6285102629999?text=Halo%20Vlowzy%2C%20saya%20ingin%20bertanya%20lebih%20lanjut%20tentang%20AI%20solution." 
+              target="_blank" 
+              rel="noopener noreferrer"
             >
-              Hubungi Kami
-            </Button>
+              <Button 
+                size="lg" 
+                variant="outline" 
+                className="text-lg px-10 py-7 border-primary/30 hover:bg-primary/10"
+              >
+                Hubungi Kami
+              </Button>
+            </a>
           </div>
           
           <p className="text-sm text-muted-foreground pt-4">
-            💬 Atau chat langsung: <a href="mailto:info@vlowzy.com" className="text-primary hover:underline">info@vlowzy.com</a>
+            💬 Atau kirim email ke:{" "}
+            <a 
+              href="mailto:info@vlowzy.com"
+              className="text-primary hover:underline"
+            >
+              info@vlowzy.com
+            </a>
           </p>
         </div>
       </div>
